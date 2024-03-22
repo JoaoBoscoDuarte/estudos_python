@@ -1,0 +1,15 @@
+Exercício - Laço for
+
+1. Escreva um programa que imprima números de 1 a 10.
+
+2. Escreva um programa que imprima números de 10 a 1 (Decescente).
+
+3. Escreva um programa que leia um conjunto de números (termos) do teclado e imprima o produto de todos esses números. Antes de começar a ler os números, o programa deve solicitar o total de termos que o usuário pretende entrar. Não se esqueça de que um produtório de 0 termos deve resultar em zero. Exemplos:  
+
+4. Faça um programa que calcule o fatorial de um número inteiro lido do teclado. Exemplos:  
+
+5. Faça um programa que leia um conjunto de números positivos do teclado e informe se algum número do conjunto é múltiplo de 10. Assuma que o usuário não sabe com quantos números deseja entrar, de modo que seu programa deve ler números indefinidamente até o usuário entrar com o primeiro número negativo, marcando assim o final da entrada. Note que esse último número negativo não faz parte do conjunto de entrada, e só tem a finalidade de indicar quando os dados acabam. Obs: você deve ler todos os números que o usuário digitar até o mesmo entrar com o primeiro valor negativo! Exemplo:  
+
+6. Escreva um programa que leia um vetor de n coordenadas e informe se o vetor se encontra no primeiro ortante (ortante positivo). Nota: um vetor se encontra no ortante positivo se todas as suas coordenadas são números positivos. Exemplos:  
+
+7. Em uma conceituada universidade, o sistema de ingresso prevê provas de X disciplinas escolhidas de acordo com a carreira desejada. Para conseguir passar por uma entrevista e pleitear uma das vagas da universidade, cada candidato precisa obter grau igual ou superior que 5.0 em todas as provas e apresentar média final maior ou igual que 7.0 considerando todas as notas.Escreva um programa em Python que leia as X notas de um candidato e informe sua média e se ele está apto a prosseguir na disputa pelas vagas. Atenção: Todas as X notas do candidato devem sempre ser lidas. Assuma que todas as entradas sempre serão válidas. Exemplo:
