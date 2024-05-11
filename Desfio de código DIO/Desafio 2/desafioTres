@@ -1,0 +1,15 @@
+import re
+
+def validate_numero_telefone(phone_number):
+    padrao = r'[(][0-9]{2}[)][ ][9][0-9]{4}[-][0-9]{4}'
+    
+    if re.match(padrao, phone_number):
+        return("Número de telefone válido.")
+    
+    else:
+        return("Número de telefone inválido.")
+        
+phone_number = input('')
+result = validate_numero_telefone(phone_number)
+
+print(result)
