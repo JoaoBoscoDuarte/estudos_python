@@ -1,0 +1,22 @@
+Desafio de Ordenação: Bubble Sort
+
+Descrição:
+O desafio consiste em implementar o algoritmo de ordenação Bubble Sort para ordenar uma lista de números em ordem crescente.
+
+Instruções:
+1. Crie um programa que implemente o algoritmo Bubble Sort.
+2. Utilize uma lista de números como entrada para o algoritmo.
+3. Implemente o algoritmo de forma que ele seja capaz de ordenar a lista em ordem crescente.
+4. Durante a execução do algoritmo, mostre cada etapa da ordenação, destacando os elementos que foram trocados em cada iteração.
+5. Ao final, mostre a lista completamente ordenada.
+
+Exemplo:
+Suponha que temos a seguinte lista de entrada: [5, 3, 1, 4, 2]
+Após a execução do algoritmo Bubble Sort, o resultado passo a passo seria:
+- Passo 1: [3, 1, 4, 2, 5] (5 e 3 trocados)
+- Passo 2: [1, 3, 2, 4, 5] (3 e 1 trocados, 4 e 2 trocados)
+- Passo 3: [1, 2, 3, 4, 5] (2 e 1 trocados)
+Lista ordenada: [1, 2, 3, 4, 5]
+
+Observação:
+O desafio é uma oportunidade para praticar implementação de algoritmos de ordenação e entender o funcionamento do Bubble Sort.

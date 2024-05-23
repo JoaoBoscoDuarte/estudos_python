@@ -54,4 +54,3 @@ elif salario > 700 and salario < 1500:
 else:
     salario2 = salario * 1.05
     print(f'Salario antes do rejuste: {salario:.{2}f}; Percentual de aumento: 5%; Aumento: {(0.05 * salario):.{2}f}; O novo salário é de {salario2:.{2}f}')
-    
