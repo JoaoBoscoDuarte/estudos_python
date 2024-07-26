@@ -3,7 +3,7 @@ Estudos referente ao aprendizado de python, estudo iniciado em março de 2024.
 
 ## Conteúdo
 1. Estrutura de dados básica
-   1. Variáveis e operadores
+1.1. Variáveis e operadores
    2. Condicionais e loops
    3. Strings
    4. Listas e tuplas
