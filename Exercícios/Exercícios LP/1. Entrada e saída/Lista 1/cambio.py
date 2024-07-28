@@ -1,5 +1,4 @@
 def isDecimal(a):
-    
     if a.count(".") > 1:
         return False
     
@@ -8,9 +7,7 @@ def isDecimal(a):
     
     return False
 
-
 def main():
-
     while True:
         taxaDeCambio = input("Insira a taxa de cambio")
 
